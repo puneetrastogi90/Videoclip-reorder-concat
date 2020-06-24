@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="StyleIcon">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="StyleText">
+        <item name="android:fontFamily">@font/sf_pro_display_semi_bold</item>
+    </style>
+
+
+
+    <style name="StyleText.HeavyFont">
+        <item name="android:fontFamily">@font/sf_pro_display_heavy</item>
+    </style>
+</resources>

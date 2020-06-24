@@ -1,0 +1,4 @@
+include ':custom-toolbar'
+include ':video_reorder_library'
+include ':app'
+rootProject.name = "VideoClipReorder"

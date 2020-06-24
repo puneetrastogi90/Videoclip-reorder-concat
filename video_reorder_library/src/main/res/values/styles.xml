@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorAccent">@android:color/black</item>
+        <item name="android:windowContentTransitions">true</item>
+        <!--<item name="android:windowIsTranslucent">true</item>-->
+        <item name="android:fontFamily">@font/sf_pro_display_bold</item>
+    </style>
+
+</resources>
